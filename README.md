@@ -10,13 +10,6 @@ I have spent most of my career on product teams, working closely with designers 
 
 I have built and evolved design systems across platforms and contributed to migrating legacy setups to modern React and TypeScript.
 
-### What's here
-
-A small set of projects that show how I actually work.  
-Application structure, state management, component composition, and testing.
-
-Real product patterns rather than tutorial demos.
-
 ### Stack
 
 React • TypeScript • Next.js • modern CSS • design systems
