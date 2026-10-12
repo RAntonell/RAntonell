@@ -1,20 +1,17 @@
-## Hi, I'm Roger
+## Roger Antonell
 
-Frontend developer with 7 years of experience building interfaces for real products.
+Frontend developer who designs.
 
-I work on design systems, component architecture, and keeping UIs consistent as products scale.
+Since 2019 I've taken features from first sketch to production code. At Sunweb Group I work on the design system and the customer account area, and I've designed several of the pages and features I shipped.
 
-### Background
-
-I have spent most of my career on product teams, working closely with designers and maintaining codebases over the long term.
-
-I have built and evolved design systems across platforms and contributed to migrating legacy setups to modern React and TypeScript.
+Earlier, at Algrano, my redesign of key pages led to six times more user messages.
 
 ### Stack
 
-React • TypeScript • Next.js • modern CSS • design systems
+React, Next.js, TypeScript, CSS, Storybook, Figma.
 
-I care about maintainable code and shipping quality work.
+### Contact
 
-📍 Girona, Spain • Working remotely  
-🔗 [rogerantonell.com](https://rogerantonell.com) • [LinkedIn](https://linkedin.com/in/roger-antonell-huerta)
+Girona, Spain. Working remotely.
+
+[rogerantonell.com](https://www.rogerantonell.com) · [LinkedIn](https://www.linkedin.com/in/roger-antonell-huerta) · [roger.antonell@gmail.com](mailto:roger.antonell@gmail.com)
