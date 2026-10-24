@@ -2,9 +2,14 @@
 
 Frontend developer who designs.
 
-Since 2019 I've taken features from first sketch to production code. At Sunweb Group I work on the design system and the customer account area, and I've designed several of the pages and features I shipped.
+Since 2019 I've taken features from first sketch to production code. At Sunweb Group I was the main frontend developer on moving the customer account area to Next.js across 10 travel sites, and I designed parts of it, including booking details and the sign-in flow.
 
 Earlier, at Algrano, my redesign of key pages led to six times more messages between users.
+
+### Case studies
+
+- [Rebuilding My Account for 10 travel sites](https://www.rogerantonell.com/work/my-account/)
+- [Redesigning the auth flow](https://www.rogerantonell.com/work/sign-in/)
 
 ### Stack
 
